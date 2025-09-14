@@ -160,7 +160,7 @@ QRadioButton::indicator:unchecked {
 }
 
 QRadioButton::indicator:checked {
-    background-color: #007bff;
+    background-color: #28a745; /* Green */
     border: 1px solid #ced4da;
 }
 
